@@ -6,7 +6,8 @@ The idea is that the simulation can be run via the makefile, which keeps track o
 make
 ```
 
-If more cores are available on the system, then the estimations can be run in parallel by using the ` -j ` flag. Assuming 4 cores are available the command would be: ```
+If more cores are available on the system, then the estimations can be run in parallel by using the ` -j ` flag. Assuming 4 cores are available the command would be: 
+```
 make -j 4
 ```
 
